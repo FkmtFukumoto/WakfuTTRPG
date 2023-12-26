@@ -1,0 +1,25 @@
+{
+    "name": "wakfutt",
+    "title": "Wakfu TableTop",
+    "description": "A system for playing Wakfu TableTop RPG",
+    "author": "Fukumoto",
+    "version": "0.000001",
+    "minimumCoreVersion": "11.315",
+    "compatibleCoreVersion": "11.315",
+    "esmodules":[
+        "wakfutt.js"
+    ],
+    "styles":[
+        "wakfutt.css"
+    ],
+    "packs":[
+
+    ],
+    "languages":[
+
+    ],
+    "gridDistance": 1.5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "wounds",
+    "initiative": "@speed"        
+}
