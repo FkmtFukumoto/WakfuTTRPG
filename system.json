@@ -8,8 +8,8 @@
     "compatibleCoreVersion": "11.315",
 
     "url": "https://github.com/FkmtFukumoto/WakfuTTRPG/",
-    "manifest": "https://raw.githubusercontent.com/FkmtFukumoto/WakfuTTRPG/main/wakfutt/system.json",
-    "download": "https://github.com/FkmtFukumoto/WakfuTTRPG/archive/refs/heads/main/wakfutt.zip",
+    "manifest": "https://raw.githubusercontent.com/FkmtFukumoto/WakfuTTRPG/main/system.json",
+    "download": "https://github.com/FkmtFukumoto/WakfuTTRPG/archive/refs/heads/main.zip",
     
     "esmodules":[
         "wakfutt.js"
