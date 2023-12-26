@@ -11,7 +11,13 @@
     "url": "https://github.com/FkmtFukumoto/WakfuTTRPG/",
     "manifest": "https://raw.githubusercontent.com/FkmtFukumoto/WakfuTTRPG/main/system.json",
     "download": "https://github.com/FkmtFukumoto/WakfuTTRPG/archive/refs/heads/main.zip",
-    "authors": "Fukumoto",
+    "authors": [
+        {
+          "name": "Fukumoto",
+          "url": "https://foundryvtt.com",
+          "flags": {}
+        }
+    ],
     "esmodules":[
         "wakfutt.js"
     ],
