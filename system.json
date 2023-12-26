@@ -2,15 +2,15 @@
     "id": "wakfutt",
     "title": "Wakfu TableTop",
     "description": "A system for playing Wakfu TableTop RPG",
-    "author": "Fukumoto",
-    "version": "0.000001",
-    "minimumCoreVersion": "11.315",
-    "compatibleCoreVersion": "11.315",
-
+    "version": "0.1",
+    "compatibility": {
+        "minimum": "11.315",
+        "verified": "11"
+    }, 
     "url": "https://github.com/FkmtFukumoto/WakfuTTRPG/",
     "manifest": "https://raw.githubusercontent.com/FkmtFukumoto/WakfuTTRPG/main/system.json",
     "download": "https://github.com/FkmtFukumoto/WakfuTTRPG/archive/refs/heads/main.zip",
-    
+    "authors": "Fukumoto",
     "esmodules":[
         "wakfutt.js"
     ],
